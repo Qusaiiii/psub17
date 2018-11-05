@@ -1,5 +1,5 @@
-var ServerID = "496001281643773993";// اي دي الروم
-var ChannelID = "496314042537738240";
+var ServerID = "508734532174872587";// اي دي الروم
+var ChannelID = "508977239698833408";
 
 const Discord = require('discord.js');
 const client = new Discord.Client();
